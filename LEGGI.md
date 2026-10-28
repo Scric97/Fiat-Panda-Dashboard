@@ -26,7 +26,8 @@ Creazione di una dashboard su dispositivo Raspberry Pi Pico 2 RP2040 base Arduin
 
 ---
 
-## 📁 Struttura del Repository
+## 📁 Struttura della Repository
+```text
 Test_panda/
 │
 ├── src/                        # Tutti i file sorgente del codice
