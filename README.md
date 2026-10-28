@@ -1,4 +1,4 @@
-📊 Fiat Panda 141 Custom Digital Dashboard
+📊 Fiat Panda 141 Digital Dashboard
 
 An embedded telemetry and display system built on the **Raspberry Pi Pico 2 (RP2040)** using the Arduino IDE framework, featuring a custom-designed graphical interface.
 
