@@ -60,5 +60,5 @@ Test_panda/
 ├── docs/                       # Eventuali note o schemi
 │   └── note/                   # La tua cartella di note
 │
-├── README.md                   # Il file principale che spiega il progetto
+├── LEGGI.md                   # Il file principale che spiega il progetto
 └── .gitignore                  # File di build/temporanei da ignorare
