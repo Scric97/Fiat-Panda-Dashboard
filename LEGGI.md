@@ -1,6 +1,6 @@
 📊 Dashboard per Fiat Panda 141
 
-Creazione di una dashboard su dispositivo Raspberry Pi Pico 2 RP2040 base Arduino IDE con creazione grafica dedicata
+Creazione di una dashboard su dispositivo Raspberry Pi Pico 2 RP2350 base Arduino IDE con creazione grafica dedicata
 
 ---
 
